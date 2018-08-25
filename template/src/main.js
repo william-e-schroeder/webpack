@@ -49,13 +49,13 @@ import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
 
 Vue.use(Vuetify{{#theme}}, { theme: {
-  primary: '#ee44aa',
-  secondary: '#424242',
-  accent: '#82B1FF',
-  error: '#FF5252',
-  info: '#2196F3',
-  success: '#4CAF50',
-  warning: '#FFC107'
+  primary: '#5F8FB4',
+  secondary: '#3D3D3D',
+  accent: '#4B5D67',
+  error: '#EF5350',
+  info: '#40C4FF',
+  success: '#00E676',
+  warning: '#FFEA00'
 }}{{/theme}})
 {{/alacarte}}
 
